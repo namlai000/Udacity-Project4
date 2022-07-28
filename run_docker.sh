@@ -12,4 +12,4 @@ docker image ls
 
 # Step 3: 
 # Run flask app
-docker run --name prediction -p 8000:5001 namlai000/udacity-devops-microservices:1.0
+docker run --name prediction -p 8000:80 namlai000/udacity-devops-microservices:1.0
