@@ -6,10 +6,14 @@
 # Step 1:
 # Create dockerpath
 # dockerpath=<your docker ID/path>
+dockerpath=namlai000/udacity-devops-microservices
+tag=1.0
 
 # Step 2:  
 # Authenticate & tag
-echo "Docker ID and Image: $dockerpath"
+echo "Docker ID and Image: $dockerpath:$tag"
+docker tag $dockerpath $dockerpath:$tag
 
 # Step 3:
 # Push image to a docker repository
+docker push $dockerpath:$tag
