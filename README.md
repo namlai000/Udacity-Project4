@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/namlai000/Udacity-Project4.svg?style=svg)](https://circleci.com/gh/namlai000/Udacity-Project4)
 
 ## Project Overview
 
