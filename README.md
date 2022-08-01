@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/namlai000/Udacity-Project4.svg?style=svg)](https://circleci.com/gh/namlai000/Udacity-Project4)
+[![CircleCI](https://img.shields.io/cirrus/github/namlai000/Udacity-Project4)](https://circleci.com/gh/namlai000/Udacity-Project4)
 
 ## Project Overview
 
